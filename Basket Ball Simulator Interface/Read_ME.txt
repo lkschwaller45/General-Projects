@@ -1,0 +1,2 @@
+This was code worked on in a group for MEE 484 - Advanced Computing, it's intent was design and develop code for an interface that interfaces with some C++ code running a basket ball simulation based on various
+parameters. This code was ~75% complete when the class ended, this is the work at that point.
